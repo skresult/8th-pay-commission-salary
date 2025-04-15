@@ -41,4 +41,4 @@ This tool provides an **estimated** salary and is based on a tentative fitment f
 
 ## 🙌 Powered by
 
-**[CalculatorPoint.com](https://calculatorpoint.com)** – India's one-stop platform for calculators, converters & planning tools.
+**[CalculatorPoint.com](https://calculatorpoint.com)** – world's one-stop platform for calculators, converters & planning tools.
